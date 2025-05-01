@@ -12,9 +12,13 @@
   "wallJumpHeight": 0.55,
   "wallSlideDelay": 15,
   "stopWallSlideDelay": 72000,
-  "playFallSound": true,
+  "maxWallJumps": 72000,
+  "playFallingSound": true,
+  "blockList": [],
+  "blockListMode": "BLACKLIST",
   "enableEnchantments": true,
   "enableWallJump": true,
   "enableDoubleJump": true,
-  "enableSpeedBoost": true
+  "enableSpeedBoost": true,
+  "speedBoostMultiplier": 0.5
 }

@@ -99,6 +99,28 @@
         "value": 1024
       }
     },
+    "justleveling:magic_resist": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "palladium:punch_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2048,
+        "value": 2048
+      }
+    },
     "irons_spellbooks:fire_spell_power": {
       "enabled": false,
       "min": {
@@ -132,6 +154,17 @@
         "value": 10000
       }
     },
+    "palladium:levitation_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 32,
+        "value": 32
+      }
+    },
     "irons_spellbooks:summon_damage": {
       "enabled": false,
       "min": {
@@ -154,26 +187,15 @@
         "value": 100
       }
     },
-    "vampirism:dbno_duration": {
+    "palladium:destroy_speed": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 2147483647,
-        "value": 2147483647
-      }
-    },
-    "vampirism:sundamage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1000,
-        "value": 1000
+        "default": 2048,
+        "value": 2048
       }
     },
     "tetra:draw_strength": {
@@ -220,15 +242,15 @@
         "value": 100
       }
     },
-    "werewolves:food_consumption": {
+    "palladium:flight_speed": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 100,
-        "value": 100
+        "default": 32,
+        "value": 32
       }
     },
     "minecraft:zombie.spawn_reinforcements": {
@@ -264,7 +286,7 @@
         "value": 1000000
       }
     },
-    "ars_nouveau:ars_nouveau.perk.wixie": {
+    "forge:swim_speed": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -275,7 +297,7 @@
         "value": 1024
       }
     },
-    "forge:swim_speed": {
+    "ars_nouveau:ars_nouveau.perk.wixie": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -308,7 +330,7 @@
         "value": 2048
       }
     },
-    "vampirism:blood_exhaustion": {
+    "palladium:flight_flexibility": {
       "enabled": false,
       "min": {
         "default": 0,
@@ -352,15 +374,15 @@
         "value": 2048
       }
     },
-    "vampirism:neonatal_duration": {
+    "palladium:jump_power": {
       "enabled": false,
       "min": {
         "default": 0,
         "value": 0
       },
       "max": {
-        "default": 2147483647,
-        "value": 2147483647
+        "default": 2048,
+        "value": 2048
       }
     },
     "irons_spellbooks:ender_spell_power": {
@@ -383,39 +405,6 @@
       "max": {
         "default": 100,
         "value": 100
-      }
-    },
-    "werewolves:bite_damage": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "werewolves:food_gain": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
-    "werewolves:time_regain": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1,
-        "value": 1
       }
     },
     "forge:nametag_distance": {
@@ -449,6 +438,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "justleveling:beneficial_effect": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "forge:block_reach": {
@@ -550,8 +550,30 @@
         "value": 100
       }
     },
+    "palladium:leaping": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "minecraft:generic.flying_speed": {
       "enabled": true,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "justleveling:break_speed": {
+      "enabled": false,
       "min": {
         "default": 0,
         "value": 0
@@ -649,6 +671,17 @@
         "value": 100
       }
     },
+    "justleveling:critical_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "minecraft:horse.jump_strength": {
       "enabled": true,
       "min": {
@@ -702,6 +735,39 @@
       "max": {
         "default": 1,
         "value": 1
+      }
+    },
+    "justleveling:projectile_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
+    "palladium:heroic_flight_type": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "palladium:fall_resistance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     }
   }
