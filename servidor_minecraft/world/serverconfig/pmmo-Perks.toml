@@ -5,234 +5,234 @@
 	[Perks.For_Event]
 
 		[[Perks.For_Event.ENTITY]]
-			perk = "pmmo:villager_boost"
 			skill = "charisma"
-
-		[[Perks.For_Event.JUMP]]
-			perk = "pmmo:jump_boost"
-			skill = "agility"
-			per_level = 5.0E-4
-
-		[[Perks.For_Event.CROUCH_JUMP]]
-			perk = "pmmo:jump_boost"
-			skill = "agility"
-			per_level = 0.0015
-
-		[[Perks.For_Event.SUBMERGED]]
-			perk = "pmmo:breath"
-			skill = "swimming"
-
-		[[Perks.For_Event.SUBMERGED]]
-			perk = "pmmo:effect"
-			skill = "swimming"
-			min_level = 25
-			effect = "minecraft:night_vision"
-
-		[[Perks.For_Event.RECEIVE_DAMAGE]]
-			for_damage = "minecraft:fall"
-			perk = "pmmo:damage_reduce"
-			skill = "agility"
-			per_level = 0.025
-
-		[[Perks.For_Event.RECEIVE_DAMAGE]]
-			for_damage = "minecraft:mob_attack"
-			perk = "pmmo:damage_reduce"
-			skill = "endurance"
-			per_level = 0.025
-
-		[[Perks.For_Event.DEAL_DAMAGE]]
-			perk = "pmmo:damage_boost"
-			skill = "archery"
-			applies_to = ["minecraft:bow", "minecraft:crossbow", "minecraft:trident"]
-
-		[[Perks.For_Event.DEAL_DAMAGE]]
-			perk = "pmmo:damage_boost"
-			skill = "magic"
-			applies_to = ["ars_nouveau:spell_bow"]
-
-		[[Perks.For_Event.DEAL_DAMAGE]]
-			for_damage = ["#pmmo:magic"]
-			perk = "pmmo:damage_boost"
-			skill = "magic"
-
-		[[Perks.For_Event.DEAL_DAMAGE]]
-			for_damage = ["#pmmo:gun"]
-			perk = "pmmo:damage_boost"
-			skill = "gunslinging"
+			perk = "pmmo:villager_boost"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "mining"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:attribute"
 			skill = "building"
+			per_level = 0.05
+			perk = "pmmo:attribute"
 			attribute = "forge:block_reach"
-			per_level = 0.05
 			max_boost = 10.0
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "building"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "excavation"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "woodcutting"
-
-		[[Perks.For_Event.SKILL_UP]]
 			perk = "pmmo:fireworks"
-			skill = "farming"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:attribute"
+			skill = "farming"
+			perk = "pmmo:fireworks"
+
+		[[Perks.For_Event.SKILL_UP]]
 			skill = "agility"
-			attribute = "minecraft:generic.movement_speed"
 			per_level = 1.5E-5
+			perk = "pmmo:attribute"
+			attribute = "minecraft:generic.movement_speed"
 			max_boost = 1.0
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "agility"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:attribute"
 			skill = "endurance"
-			attribute = "minecraft:generic.max_health"
 			per_level = 0.05
+			perk = "pmmo:attribute"
+			attribute = "minecraft:generic.max_health"
 			max_boost = 10.0
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "endurance"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:attribute"
 			skill = "combat"
-			attribute = "minecraft:generic.attack_damage"
 			per_level = 0.005
+			perk = "pmmo:attribute"
+			attribute = "minecraft:generic.attack_damage"
 			max_boost = 1.0
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "combat"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "gunslinging"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "archery"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "smithing"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "flying"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "swimming"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "sailing"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "fishing"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "crafting"
-
-		[[Perks.For_Event.SKILL_UP]]
 			perk = "pmmo:fireworks"
-			skill = "magic"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "ars_scalaes:mana_boost"
+			skill = "magic"
+			perk = "pmmo:fireworks"
+
+		[[Perks.For_Event.SKILL_UP]]
 			skill = "magic"
 			per_level = 3.0
+			perk = "ars_scalaes:mana_boost"
 			max_boost = 3000.0
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "ars_scalaes:mana_regen"
 			skill = "magic"
 			per_level = 0.06
+			perk = "ars_scalaes:mana_regen"
 			max_boost = 100.0
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:attribute"
 			skill = "magic"
-			attribute = "irons_spellbooks:cooldown_reduction"
 			per_level = 0.005
+			perk = "pmmo:attribute"
+			attribute = "irons_spellbooks:cooldown_reduction"
 			max_boost = 1.0
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:attribute"
 			skill = "magic"
-			attribute = "irons_spellbooks:spell_power"
 			per_level = 0.01
+			perk = "pmmo:attribute"
+			attribute = "irons_spellbooks:spell_power"
 			max_boost = 2.0
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:attribute"
 			skill = "magic"
-			attribute = "irons_spellbooks:mana_regen"
 			per_level = 1.0
+			perk = "pmmo:attribute"
+			attribute = "irons_spellbooks:mana_regen"
 			max_boost = 300.0
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "slayer"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "hunter"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "taming"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "cooking"
+			perk = "pmmo:fireworks"
 
 		[[Perks.For_Event.SKILL_UP]]
-			perk = "pmmo:fireworks"
 			skill = "alchemy"
+			perk = "pmmo:fireworks"
+
+		[[Perks.For_Event.SUBMERGED]]
+			skill = "swimming"
+			perk = "pmmo:breath"
+
+		[[Perks.For_Event.SUBMERGED]]
+			skill = "swimming"
+			effect = "minecraft:night_vision"
+			perk = "pmmo:effect"
+			min_level = 25
+
+		[[Perks.For_Event.DEAL_DAMAGE]]
+			applies_to = ["minecraft:bow", "minecraft:crossbow", "minecraft:trident"]
+			skill = "archery"
+			perk = "pmmo:damage_boost"
+
+		[[Perks.For_Event.DEAL_DAMAGE]]
+			applies_to = ["ars_nouveau:spell_bow"]
+			skill = "magic"
+			perk = "pmmo:damage_boost"
+
+		[[Perks.For_Event.DEAL_DAMAGE]]
+			for_damage = ["#pmmo:magic"]
+			skill = "magic"
+			perk = "pmmo:damage_boost"
+
+		[[Perks.For_Event.DEAL_DAMAGE]]
+			for_damage = ["#pmmo:gun"]
+			skill = "gunslinging"
+			perk = "pmmo:damage_boost"
 
 		[[Perks.For_Event.BREAK_SPEED]]
-			perk = "pmmo:break_speed"
-			skill = "mining"
 			pickaxe_dig = 0.005
+			skill = "mining"
+			perk = "pmmo:break_speed"
 
 		[[Perks.For_Event.BREAK_SPEED]]
-			perk = "pmmo:break_speed"
-			skill = "excavation"
 			shovel_dig = 0.005
+			skill = "excavation"
+			perk = "pmmo:break_speed"
 
 		[[Perks.For_Event.BREAK_SPEED]]
-			perk = "pmmo:break_speed"
 			skill = "woodcutting"
+			perk = "pmmo:break_speed"
 			axe_dig = 0.005
 
 		[[Perks.For_Event.BREAK_SPEED]]
-			perk = "pmmo:break_speed"
-			skill = "farming"
-			sword_dig = 0.005
-			hoe_dig = 0.005
 			shears_dig = 0.005
+			sword_dig = 0.005
+			skill = "farming"
+			perk = "pmmo:break_speed"
+			hoe_dig = 0.005
+
+		[[Perks.For_Event.CROUCH_JUMP]]
+			skill = "agility"
+			per_level = 0.0015
+			perk = "pmmo:jump_boost"
+
+		[[Perks.For_Event.JUMP]]
+			skill = "agility"
+			per_level = 5.0E-4
+			perk = "pmmo:jump_boost"
 
 		[[Perks.For_Event.SPRINT_JUMP]]
-			perk = "pmmo:jump_boost"
 			skill = "agility"
 			per_level = 0.001
+			perk = "pmmo:jump_boost"
+
+		[[Perks.For_Event.RECEIVE_DAMAGE]]
+			for_damage = "minecraft:fall"
+			skill = "agility"
+			per_level = 0.025
+			perk = "pmmo:damage_reduce"
+
+		[[Perks.For_Event.RECEIVE_DAMAGE]]
+			for_damage = "minecraft:mob_attack"
+			skill = "endurance"
+			per_level = 0.025
+			perk = "pmmo:damage_reduce"
 

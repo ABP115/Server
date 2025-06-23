@@ -237,34 +237,34 @@
 			Dig_Speed = 10.0
 
 		[Auto_Values.Item_Tweaks.HEAD_Attributes]
-			Durability = 0.01
 			Toughness = 10.0
 			Knockback_Resistance = 10.0
 			Armor = 10.0
+			Durability = 0.01
 
 		[Auto_Values.Item_Tweaks.CHEST_Attributes]
-			Durability = 0.01
 			Toughness = 10.0
 			Knockback_Resistance = 10.0
 			Armor = 10.0
+			Durability = 0.01
 
 		[Auto_Values.Item_Tweaks.LEGS_Attributes]
-			Durability = 0.01
 			Toughness = 10.0
 			Knockback_Resistance = 10.0
 			Armor = 10.0
+			Durability = 0.01
 
 		[Auto_Values.Item_Tweaks.BOOTS_Attributes]
-			Durability = 0.01
 			Toughness = 10.0
 			Knockback_Resistance = 10.0
 			Armor = 10.0
+			Durability = 0.01
 
 		[Auto_Values.Item_Tweaks.WINGS_Attributes]
-			Durability = 0.01
 			Toughness = 10.0
 			Knockback_Resistance = 10.0
 			Armor = 10.0
+			Durability = 0.01
 
 	#Configuration tweaks specific to entities.
 	#'Health' Determines how much entity health affects auto value calculations
@@ -273,7 +273,7 @@
 	[Auto_Values.Entity_Tweaks]
 
 		[Auto_Values.Entity_Tweaks.Entity_Attributes]
-			Move_Speed = 0.15
 			Damage = 1.5
 			Health = 0.5
+			Move_Speed = 0.15
 
