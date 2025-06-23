@@ -2742,6 +2742,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_pillager_camp": "2025-06-23 22:18:40 +0000",
       "entered_hay_storage": "2025-06-23 20:26:07 +0000",
       "entered_ruined_building": "2025-06-23 19:58:47 +0000"
     },
@@ -4536,6 +4537,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-06-23 22:18:53 +0000"
+    },
+    "done": true
+  },
   "gnumus:fatty_demon": {
     "criteria": {
       "fatty_demon": "2025-06-23 22:17:18 +0000"
@@ -4551,6 +4558,18 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-23 22:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-23 22:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-23 22:18:53 +0000"
     },
     "done": true
   },
@@ -4620,6 +4639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-23 22:18:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-23 22:15:56 +0000"
@@ -4629,6 +4654,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-23 22:15:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-06-23 22:18:53 +0000"
     },
     "done": true
   },

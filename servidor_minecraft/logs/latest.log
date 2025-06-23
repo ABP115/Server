@@ -74376,3 +74376,13 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [23Jun2025 22:18:50.317] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [23Jun2025 22:18:50.318] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mdefbcce$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
 [23Jun2025 22:20:15.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Teleported Alex7397 to Ectonurite]
+[23Jun2025 22:22:11.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benitopandita lost connection: Disconnected
+[23Jun2025 22:22:11.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetramand left the game
+[23Jun2025 22:22:47.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=125, z=620} BlockPos{x=253, y=124, z=622}
+[23Jun2025 22:22:47.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=125, z=620} BlockPos{x=253, y=124, z=622}
+[23Jun2025 22:22:47.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=125, z=623} BlockPos{x=253, y=124, z=622}
+[23Jun2025 22:22:47.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=253, y=125, z=623} BlockPos{x=253, y=124, z=622}
+[23Jun2025 22:25:10.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=117, z=559} BlockPos{x=281, y=114, z=560}
+[23Jun2025 22:30:15.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=120, z=583} BlockPos{x=303, y=119, z=581}
+[23Jun2025 22:30:15.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=302, y=120, z=585} BlockPos{x=301, y=119, z=584}
+[23Jun2025 22:30:15.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=302, y=120, z=585} BlockPos{x=301, y=119, z=584}
