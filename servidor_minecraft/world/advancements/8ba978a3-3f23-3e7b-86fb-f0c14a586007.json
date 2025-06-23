@@ -35,27 +35,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/spike_to_dye": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -68,12 +50,6 @@
   "ars_nouveau:recipes/misc/ritual_moonfall": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -104,18 +80,6 @@
   "ars_nouveau:recipes/misc/magelight_torch": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -215,12 +179,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -230,12 +188,6 @@
   "ars_nouveau:recipes/misc/ritual_brazier": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2025-06-23 18:09:54 +0000"
     },
     "done": true
   },
@@ -257,23 +209,11 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-06-23 18:12:30 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/spike_to_arrow": {
     "criteria": {
@@ -281,22 +221,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-23 18:12:31 +0000",
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/void_prism": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -342,21 +269,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-06-23 18:04:55 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
     },
     "done": true
   },
@@ -450,21 +365,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-06-23 17:59:04 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/archwood_button": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -498,12 +401,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-06-23 18:04:55 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/decorations/sourcestone_20": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -519,12 +416,6 @@
   "ars_nouveau:recipes/decorations/sourcestone_21": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-06-23 17:59:04 +0000"
     },
     "done": true
   },
@@ -558,12 +449,6 @@
     },
     "done": true
   },
-  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
-    "criteria": {
-      "has_white_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/clear_deny": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -594,21 +479,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-06-23 17:53:42 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -654,12 +527,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wixie_hat": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -677,12 +544,6 @@
       "requirement": "2025-06-23 17:35:36 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
@@ -714,30 +575,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/generic_chest": {
-    "criteria": {
-      "has _plank": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-06-23 18:09:50 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-06-23 17:51:02 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -756,21 +593,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-23 18:05:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_white": {
-    "criteria": {
-      "has_white_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -780,21 +605,9 @@
     },
     "done": true
   },
-  "tetra:recipes/planks": {
-    "criteria": {
-      "got_wood": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_nugget": "2025-06-23 18:10:01 +0000"
     },
     "done": true
   },
@@ -804,33 +617,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-06-23 18:10:01 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_chest": {
-    "criteria": {
-      "has_oak_plank": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-06-23 17:53:14 +0000"
     },
     "done": true
   },
@@ -858,12 +647,6 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2025-06-23 17:53:14 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_planks": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -875,12 +658,6 @@
       "has_journal": "2025-06-23 17:35:36 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/air_essence_to_snow_bucket": {
     "criteria": {
@@ -918,21 +695,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-06-23 18:10:01 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/mimic_scroll": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
     },
     "done": true
   },
@@ -996,12 +761,6 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_sapling": "2025-06-23 17:53:15 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -1017,18 +776,6 @@
   "ars_nouveau:recipes/misc/mob_jar": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-06-23 17:59:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-06-23 18:04:36 +0000"
     },
     "done": true
   },
@@ -1056,18 +803,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-06-23 18:04:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-06-23 17:53:14 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -1080,35 +815,11 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-23 18:05:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/item_detector": {
     "criteria": {
@@ -1140,27 +851,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -1254,12 +947,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-23 17:53:14 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/purple_archwood_wood": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -1272,27 +959,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-06-23 18:10:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-06-23 17:59:04 +0000"
     },
     "done": true
   },
@@ -1314,21 +983,9 @@
     },
     "done": true
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-06-23 18:09:50 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/arcane_pedestal": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-06-23 18:04:55 +0000"
     },
     "done": true
   },
@@ -1350,12 +1007,6 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -1365,12 +1016,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
     },
     "done": true
   },
@@ -1392,51 +1037,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
-    "criteria": {
-      "has_oak_plank": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
-    "criteria": {
-      "has_oak_plank": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
-    "criteria": {
-      "has_oak_plank": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
-    "criteria": {
-      "has_oak_plank": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2025-06-23 18:09:54 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_gray": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-23 18:05:43 +0000"
     },
     "done": true
   },
@@ -1449,18 +1052,6 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -1482,24 +1073,6 @@
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-06-23 17:48:48 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-06-23 18:04:55 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -1518,18 +1091,6 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/oak_barrel": {
-    "criteria": {
-      "has_oak_plank": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/scribes_table": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -1539,12 +1100,6 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_calcite": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -1566,12 +1121,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/green_sbed": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -1581,12 +1130,6 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -1605,12 +1148,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -1656,33 +1193,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_nugget": "2025-06-23 18:10:01 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
     },
     "done": true
   },
@@ -1728,45 +1247,9 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_2": {
-    "criteria": {
-      "has _plank": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_3": {
-    "criteria": {
-      "has _plank": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_1": {
-    "criteria": {
-      "has _plank": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_limited_barrel_4": {
-    "criteria": {
-      "has _plank": "2025-06-23 17:54:13 +0000"
     },
     "done": true
   },
@@ -1782,51 +1265,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-06-23 17:59:04 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-23 17:48:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-06-23 17:59:04 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -1839,12 +1286,6 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-06-23 17:59:04 +0000"
     },
     "done": true
   },
@@ -1878,23 +1319,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_harvest": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_slab": {
     "criteria": {
@@ -1908,27 +1337,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-06-23 17:59:04 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -1968,12 +1379,6 @@
     },
     "done": false
   },
-  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -1989,12 +1394,6 @@
   "totw_modded:root": {
     "criteria": {
       "sample_trigger": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -2027,24 +1426,6 @@
       "has_journal": "2025-06-23 17:35:36 +0000"
     },
     "done": true
-  },
-  "comforts:sleeping_bag_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-06-23 18:04:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-23 18:12:17 +0000"
-    },
-    "done": false
   },
   "ars_nouveau:recipes/misc/sky_block": {
     "criteria": {
@@ -2082,18 +1463,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/mycelial_sourcelink": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -2106,12 +1475,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-06-23 18:10:01 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -2121,18 +1484,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/generic_barrel": {
-    "criteria": {
-      "has _plank": "2025-06-23 17:54:13 +0000"
     },
     "done": true
   },
@@ -2238,18 +1589,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-23 17:54:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ring_of_potential": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -2280,27 +1619,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -2316,27 +1637,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_white": {
-    "criteria": {
-      "has_white_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-23 18:05:43 +0000"
     },
     "done": true
   },
@@ -2352,21 +1655,9 @@
     },
     "done": true
   },
-  "comforts:hammock_light_gray": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-23 18:05:43 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/oak_window": {
-    "criteria": {
-      "has_ingredient": "2025-06-23 17:54:13 +0000"
     },
     "done": true
   },
@@ -2382,15 +1673,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:snowy_slopes": "2025-06-23 17:59:01 +0000",
-      "minecraft:sunflower_plains": "2025-06-23 18:02:50 +0000",
-      "minecraft:frozen_peaks": "2025-06-23 18:00:17 +0000",
-      "minecraft:plains": "2025-06-23 18:03:41 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -2400,12 +1682,6 @@
   "ars_nouveau:recipes/misc/alteration_table": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
     },
     "done": true
   },
@@ -2439,12 +1715,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-06-23 18:10:01 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -2475,12 +1745,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
-    "criteria": {
-      "has_wool": "2025-06-23 18:04:37 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -2499,12 +1763,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-06-23 17:59:04 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-06-23 17:35:36 +0000"
@@ -2516,6 +1774,741 @@
       "has_journal": "2025-06-23 17:35:36 +0000"
     },
     "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-06-23 17:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-23 17:48:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-23 17:51:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-06-23 17:53:14 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-06-23 17:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-23 17:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-23 17:53:14 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-06-23 17:53:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-23 17:53:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_chest": {
+    "criteria": {
+      "has _plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest": {
+    "criteria": {
+      "has_oak_plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
+    "criteria": {
+      "has_oak_plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
+    "criteria": {
+      "has_oak_plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
+    "criteria": {
+      "has_oak_plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
+    "criteria": {
+      "has_oak_plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_barrel": {
+    "criteria": {
+      "has_oak_plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_2": {
+    "criteria": {
+      "has _plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_3": {
+    "criteria": {
+      "has _plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_1": {
+    "criteria": {
+      "has _plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_4": {
+    "criteria": {
+      "has _plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_barrel": {
+    "criteria": {
+      "has _plank": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-23 17:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-06-23 17:59:01 +0000",
+      "minecraft:sunflower_plains": "2025-06-23 18:02:50 +0000",
+      "minecraft:frozen_peaks": "2025-06-23 18:00:17 +0000",
+      "minecraft:plains": "2025-06-23 18:03:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-23 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-06-23 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-23 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-23 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-23 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-23 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-23 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-23 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-23 17:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-23 18:04:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-06-23 18:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-06-23 18:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-06-23 18:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-06-23 18:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-23 18:04:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-06-23 18:04:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-06-23 18:04:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-23 18:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-23 18:05:43 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-23 18:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-23 18:05:43 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-23 18:05:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-06-23 18:09:50 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-06-23 18:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-06-23 18:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-06-23 18:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-23 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-23 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-23 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-23 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-23 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-23 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-23 18:10:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-23 21:35:10 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

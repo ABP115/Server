@@ -74364,3 +74364,45 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [23Jun2025 21:29:28.759] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.457 ms. 3660/3846 recipes are parallelized.
 [23Jun2025 21:29:38.829] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [23Jun2025 21:29:38.830] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to mde3e9bf$lambda$onPiglinBarter$0$0 in enigmaticlegacy.mixins.json:MixinPiglinTasks
+[23Jun2025 21:31:30.825] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=517, y=9, z=856}
+[23Jun2025 21:34:20.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mitafox[/127.101.141.141:41331] logged in with entity id 1134 at (376.58108108403894, 152.0, -332.83921015953257)
+[23Jun2025 21:34:21.065] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player mitafox
+[23Jun2025 21:34:21.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mitafox joined the game
+[23Jun2025 21:34:21.486] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (8ba978a3-3f23-3e7b-86fb-f0c14a586007)
+[23Jun2025 21:34:21.518] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: mitafox
+[23Jun2025 21:34:21.539] [Server thread/INFO] [Jade/]: Syncing config to mitafox (8ba978a3-3f23-3e7b-86fb-f0c14a586007)
+[23Jun2025 21:34:21.545] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to mitafox...
+[23Jun2025 21:34:21.545] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jun2025 21:34:21.549] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to mitafox
+[23Jun2025 21:34:28.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[23Jun2025 21:34:47.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[23Jun2025 21:35:18.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mitafox lost connection: Timed out
+[23Jun2025 21:35:18.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mitafox left the game
+[23Jun2025 21:35:22.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex7397 has made the advancement [Cover Me with Diamonds]
+[23Jun2025 21:36:56.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex7397 has made the advancement [Lore Writer]
+[23Jun2025 21:36:57.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex7397 has made the advancement [Elemental Might]
+[23Jun2025 21:37:16.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex7397 has made the advancement [Magnificence]
+[23Jun2025 21:37:18.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex7397 has made the advancement [Warped]
+[23Jun2025 21:38:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex7397 has made the advancement [Diamonds!]
+[23Jun2025 21:38:12.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benitopandita lost connection: Timed out
+[23Jun2025 21:38:12.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benitopandita left the game
+[23Jun2025 21:38:26.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mitafox[/127.101.141.141:33511] logged in with entity id 1788 at (376.58108108403894, 152.0, -332.83921015953257)
+[23Jun2025 21:38:26.251] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player mitafox
+[23Jun2025 21:38:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mitafox joined the game
+[23Jun2025 21:38:26.682] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (8ba978a3-3f23-3e7b-86fb-f0c14a586007)
+[23Jun2025 21:38:26.715] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: mitafox
+[23Jun2025 21:38:26.738] [Server thread/INFO] [Jade/]: Syncing config to mitafox (8ba978a3-3f23-3e7b-86fb-f0c14a586007)
+[23Jun2025 21:38:26.739] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to mitafox...
+[23Jun2025 21:38:26.739] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jun2025 21:38:26.740] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to mitafox
+[23Jun2025 21:39:48.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Benitopandita[/127.101.141.141:58689] logged in with entity id 2213 at (279.05406697200016, 120.0, 746.3000000119209)
+[23Jun2025 21:39:48.809] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Benitopandita
+[23Jun2025 21:39:48.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benitopandita joined the game
+[23Jun2025 21:39:49.237] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (89193c06-54e0-3288-962d-29198574aaa2)
+[23Jun2025 21:39:49.279] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Benitopandita
+[23Jun2025 21:39:49.305] [Server thread/INFO] [Jade/]: Syncing config to Benitopandita (89193c06-54e0-3288-962d-29198574aaa2)
+[23Jun2025 21:39:49.309] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Benitopandita...
+[23Jun2025 21:39:49.310] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[23Jun2025 21:39:49.311] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Benitopandita
+[23Jun2025 21:40:46.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Benitopandita lost connection: Timed out
+[23Jun2025 21:40:46.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Benitopandita left the game
