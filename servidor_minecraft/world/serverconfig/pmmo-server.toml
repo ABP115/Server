@@ -114,6 +114,12 @@
 			#the value below multiplied by the damage applied.
 			[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE]
 
+				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."#minecraft:is_projectile"]
+					archery = 1
+
+				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."#pmmo:magic"]
+					magic = 15
+
 				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."#pmmo:gun"]
 					gunslinging = 1
 
@@ -123,19 +129,7 @@
 				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."minecraft:player_attack"]
 					combat = 1
 
-				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."#minecraft:is_projectile"]
-					archery = 1
-
-				[XP_Gains.Event_XP_Specifics.Damage.DEAL_DAMAGE."#pmmo:magic"]
-					magic = 15
-
 			[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE]
-
-				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."minecraft:generic_kill"]
-					endurance = 1
-
-				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:impact"]
-					endurance = 15
 
 				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#minecraft:is_projectile"]
 					endurance = 15
@@ -145,6 +139,12 @@
 
 				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:magic"]
 					magic = 15
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."minecraft:generic_kill"]
+					endurance = 1
+
+				[XP_Gains.Event_XP_Specifics.Damage.RECEIVE_DAMAGE."#pmmo:impact"]
+					endurance = 15
 
 		[XP_Gains.Event_XP_Specifics.Jumps]
 
@@ -249,14 +249,14 @@
 
 			[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic"]
 
-				[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic".attack_damage]
-					combat = 1.0E-4
-
 				[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic".movement_speed]
 					combat = 1.0E-6
 
 				[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic".max_health]
 					combat = 0.001
+
+				[Mob_Scaling.Scaling_Settings."Mob Scaling IDs and Ratios"."minecraft:generic".attack_damage]
+					combat = 1.0E-4
 
 #Settings related to the Vein Miner
 [Vein_Miner]
