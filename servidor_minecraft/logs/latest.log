@@ -74386,3 +74386,13 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [23Jun2025 22:30:15.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=303, y=120, z=583} BlockPos{x=303, y=119, z=581}
 [23Jun2025 22:30:15.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=302, y=120, z=585} BlockPos{x=301, y=119, z=584}
 [23Jun2025 22:30:15.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=302, y=120, z=585} BlockPos{x=301, y=119, z=584}
+[23Jun2025 22:32:11.582] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[23Jun2025 22:32:12.348] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=651, y=-53, z=617}
+[23Jun2025 22:32:12.348] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=652, y=-53, z=617}
+[23Jun2025 22:33:48.199] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=776, y=15, z=543}
+[23Jun2025 22:34:54.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex7397 has made the advancement [Pic-A-Nic Basket?]
+[23Jun2025 22:37:40.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=663, y=83, z=593} BlockPos{x=662, y=81, z=593}
+[23Jun2025 22:37:40.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=663, y=83, z=593} BlockPos{x=662, y=81, z=593}
+[23Jun2025 22:37:40.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=663, y=83, z=593} BlockPos{x=662, y=81, z=593}
+[23Jun2025 22:37:41.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=667, y=83, z=594} BlockPos{x=668, y=81, z=595}
+[23Jun2025 22:39:16.127] [Worker-Main-1/WARN] [ModdingLegacy/StructureGel/]: [structure_gel] Empty or non-existent pool: minecraft:
